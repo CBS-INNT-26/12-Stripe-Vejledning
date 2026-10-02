@@ -24,6 +24,8 @@ Vi skal altså **ikke** have en server, og vi skal **ikke** have nogen hemmelige
 
 1. Gå til https://dashboard.stripe.com/register og opret en konto. Du skal **ikke** udfylde noget om firma, bank eller CVR. Du kan bruge testmode med det samme.
 
+   *I må gerne nøjes med én konto pr. gruppe. Så laver I linkene sammen og deler dem, og alle gruppens køb lander i det samme dashboard. Vil du hellere have dit eget, så opret bare din egen konto.*
+
 2. Når du er inde, så tjek at der står **Test mode** eller **Sandbox** øverst. Hvis der ikke gør, så slå det til. Alt hvad vi laver i dag, skal ligge i testmode.
 
 3. Find menupunktet **Product catalogue** i venstre side, og tryk **Add a product**:
